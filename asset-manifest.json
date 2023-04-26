@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/people-list/static/css/main.8f1ec304.css",
+    "main.js": "/people-list/static/js/main.cf817b41.js",
+    "index.html": "/people-list/index.html",
+    "main.8f1ec304.css.map": "/people-list/static/css/main.8f1ec304.css.map",
+    "main.cf817b41.js.map": "/people-list/static/js/main.cf817b41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f1ec304.css",
+    "static/js/main.cf817b41.js"
+  ]
+}
